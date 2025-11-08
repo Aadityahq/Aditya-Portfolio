@@ -30,8 +30,8 @@ const projects = [
     title: "AquaVeda",
     description: "Wiki-based platform promoting water conservation.",
     imgUrl: projImg3,
-    liveLink: "", // leave empty if no live site yet
-    githubLink: "https://github.com/Mystify7777/Water-Wiki.git"
+    liveLink: "https://aquaveda.vercel.app/", // leave empty if no live site yet
+    githubLink: "https://github.com/Mystify7777/AquaVeda.git"
   },
    {
     title: "Coming Soon ... ",

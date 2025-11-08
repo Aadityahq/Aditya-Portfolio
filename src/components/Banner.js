@@ -72,7 +72,7 @@ return (
                   View Resume <ArrowRightCircle size={25} />
                 </button> */}
                 <a 
-                  href="https://drive.google.com/file/d/1vlQytDFMRubJdPUGWBvsJhnIuqiAJyd9/view?usp=drive_link" 
+                  href="https://drive.google.com/file/d/1qPHpWyyNpoHuXJB7wlj6S5W60zBulE-L/view?usp=drive_link" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="btn-resume"
